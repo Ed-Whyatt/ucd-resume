@@ -1,6 +1,7 @@
 <h1 align="center">Resume<h1>
 
 
+
 ## User Experience (UX)
 
 
@@ -16,4 +17,6 @@
     1. As a Returning Visitor, I want to easily locate the information needed to contact them again or pass on their details to another client.
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
     3. As a Returning Visitor, I want to find community links.
+
+## Wireframes
 
