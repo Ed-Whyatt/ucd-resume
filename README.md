@@ -28,6 +28,15 @@
 ## Wireframes
 
 
+### Design
+    -   #### Colour Scheme
+        -   The main colors are #
+    -   #### Typography
+        -   The main fonts on this site are Roboto and Exo
+    -   #### Imagery
+        -   Imagery is important. The only image used will be a portrate photo.
+
+
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
