@@ -8,6 +8,10 @@ header{
     margin: 0;
 }
 
+.heading{
+    margin-left: 50px;
+}
+
 .logo{
     background: url("../images/image-of-ed.jpg");
     background-position: center;
