@@ -19,5 +19,10 @@
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
     3. As a Returning Visitor, I want to find community links.
 
+-   #### Frequent User Goals
+        1. As a Frequent User, I want to check to see if there are any newly added contact information.
+        2. As a Frequent User, I want to check to see if there are any new updates to clients projects and skills.
+    
+
 ## Wireframes
 
