@@ -3,3 +3,14 @@
 header{
     margin: 0;
 }
+
+.logo{
+    background: url("../images/image-of-ed.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 350px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
