@@ -1,6 +1,7 @@
 <h1 align="center">Resume<h1>
 
 
+##This is Resume website for Edward Whyatt. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients who have  projects, collaborations ideas, contract work or start-ups.
 
 ## User Experience (UX)
 
