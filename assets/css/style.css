@@ -67,3 +67,8 @@ header {
 .menucontainer{
     font-size: 0;
 }
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
