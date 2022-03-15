@@ -130,3 +130,11 @@ header {
     height: 120px;
 }
 
+/*------------------------------------------------footer */
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
