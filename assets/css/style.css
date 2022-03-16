@@ -224,20 +224,20 @@ footer {
 
 /*-----------------------------------------------Personal Info */
 
-.personal-info-item{
+.personal-info-item {
     margin-bottom: 20px;
     display: block;
     clear: both;
 }
 
-.personal-info-item .key ,
+.personal-info-item .key,
 .personal-info-item .value {
     padding-right: 8px;
-    display: inline block;
+    display: inline-block;
 }
 
 .personal-info-item .key p,
-.personal-info-item .value p{
+.personal-info-item .value p {
     margin: 0;
 }
 
