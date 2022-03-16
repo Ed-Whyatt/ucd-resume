@@ -29,7 +29,7 @@
 
 - Home Page Wireframe - [view](https://i.imgur.com/q7W5xOL.png)
 
-- Mobile Wireframe - 
+- Mobile Wireframe - [view](https://i.imgur.com/dShH1oG.png)
 
 - Resume Page Wireframe - [view](https://i.imgur.com/ESgdmE7.png)
 
