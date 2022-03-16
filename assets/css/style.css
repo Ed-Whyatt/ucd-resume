@@ -229,3 +229,9 @@ footer {
     display: block;
     clear: both;
 }
+
+.personal-info-item .key ,
+.personal-info-item .value {
+    padding-right: 8px;
+    display: inline block;
+}
