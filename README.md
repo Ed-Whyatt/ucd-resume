@@ -38,11 +38,16 @@
 ### Design
 
 -  ### Colour Scheme
--   The main colors are
+
+      -   The main three main colors are grey, purple, gray and blue.
+
 -   #### Typography
--   The main fonts on this site are Roboto and Exo
+
+     -   The main fonts on this site are Roboto and Exo with a fall back font of sans-serif.
+
 -   #### Imagery
--   Imagery is important. The only image used will be a portrate photo.
+
+     -   Imagery is important. The only image used will be a portrate photo.
 
 ## Features
 
