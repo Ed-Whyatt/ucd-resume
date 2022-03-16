@@ -247,3 +247,7 @@ footer {
     padding-top: 2px;
     vertical-align: top;
 }
+
+.personal-info-item .key p {
+    font-weight: 700;
+}
