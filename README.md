@@ -27,6 +27,14 @@
 
 ## Wireframes
 
+- Home Page Wireframe - [view](https://i.imgur.com/q7W5xOL.png)
+
+- Mobile Wireframe - 
+
+- Resume Page Wireframe - [view](https://i.imgur.com/ESgdmE7.png)
+
+- Contact Page Wireframe - [view](https://i.imgur.com/wChnZ5H.png)
+
 ### Design
 
 -  ### Colour Scheme
