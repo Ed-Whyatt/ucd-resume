@@ -52,7 +52,7 @@ function initMap() {
     });
     return marker;
   });
-new markerClusterer.MarkerClusterer({ map, markers });
+const markerCluster = new markerClusterer.MarkerClusterer({ map, markers });
 }
 
 
